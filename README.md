@@ -1,4 +1,4 @@
-### Hi there 👋
+![coding stats](https://wakatime.com/share/@4af471c4-f901-4391-a0c5-767e66ed4be5/cfdfc2c3-6643-494b-b7e3-c9a638c2fecd.svg)
 
 <!--
 **rcommande/rcommande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
