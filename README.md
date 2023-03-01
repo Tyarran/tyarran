@@ -1,4 +1,4 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4af471c4-f901-4391-a0c5-767e66ed4be5/091c1d5e-34e1-4b02-b0a4-a82769505e5f.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4af471c4-f901-4391-a0c5-767e66ed4be5/091c1d5e-34e1-4b02-b0a4-a82769505e5f.png" width="700" /></a>
 <!--
 **rcommande/rcommande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
